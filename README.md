@@ -20,3 +20,9 @@ Patika.dev FMSS Bilişim Final Case
 
 ## Frontend App
 - [Emlakburada Frontend App](https://github.com/kemalege/emlakburada-frontend)
+
+#### Unit Test Results
+![Unit Test Results](https://res.cloudinary.com/djhvhao4u/image/upload/v1721641870/junitTestCoverage_tynyzn.png)
+
+#### Application Schema
+![Application Schema](https://res.cloudinary.com/djhvhao4u/image/upload/v1721641881/emlakbuarada._xusfy0.png)
